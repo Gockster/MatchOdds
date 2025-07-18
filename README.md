@@ -17,6 +17,8 @@ HOW TO RUN
    Docker containerization
    Port 8081 for the web server
    Port 5432 for the database
+7. Swagger: http://localhost:8081/swagger-ui/index.html
+   
 
    
 
