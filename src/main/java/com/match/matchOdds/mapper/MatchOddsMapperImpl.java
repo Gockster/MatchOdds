@@ -11,11 +11,11 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Component
-public class MatchOddMapperImpl implements MatchOddsMapper {
+public class MatchOddsMapperImpl implements MatchOddsMapper {
     private final MatchService matchService;
 
     @Autowired
-    public MatchOddMapperImpl(MatchService matchService) {
+    public MatchOddsMapperImpl(MatchService matchService) {
         this.matchService = matchService;
     }
 
