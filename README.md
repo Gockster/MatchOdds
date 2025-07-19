@@ -15,7 +15,7 @@ HOW TO RUN
    Spring Boot backend
    PostgreSQL database
    Docker containerization
-   Port 8081 for the web server
+   Port 8080 for the web server
    Port 5432 for the database
 7. Swagger: http://localhost:8080/swagger-ui/index.html
    
