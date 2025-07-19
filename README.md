@@ -4,7 +4,7 @@ HOW TO RUN
 2. Build the application: mvn clean package
 3. Start the containers: docker-compose up -d
 4. The API is now running at:
-   http://localhost:8080/api/
+   http://localhost:8080/api/ (exact endpoint on swagger step 7)
    PostgreSQL database on port 5432
    
 5.Verify everything is working:
