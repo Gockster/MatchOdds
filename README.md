@@ -5,11 +5,10 @@ HOW TO RUN
 3. Start the containers: docker-compose up -d
 4. The API is now running at:
    http://localhost:8080/api/ (exact endpoints on swagger step 7)
-   PostgreSQL database on port 5432
    
-5.Verify everything is working:
-   docker ps
-   docker logs matchodds-app-1  
+5. Verify everything is working:
+5.1 docker ps
+5.2 docker logs matchodds-app-1  
    
 6. The application uses:
    Spring Boot backend
