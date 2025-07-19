@@ -4,7 +4,7 @@ HOW TO RUN
 2. Build the application: mvn clean package
 3. Start the containers: docker-compose up -d
 4. The API is now running at:
-   http://localhost:8081/api/
+   http://localhost:8080/api/
    PostgreSQL database on port 5432
    
 5.Verify everything is working:
@@ -17,7 +17,7 @@ HOW TO RUN
    Docker containerization
    Port 8081 for the web server
    Port 5432 for the database
-7. Swagger: http://localhost:8081/swagger-ui/index.html
+7. Swagger: http://localhost:8080/swagger-ui/index.html
    
 
    
